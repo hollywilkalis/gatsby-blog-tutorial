@@ -5,7 +5,7 @@
   }
 
   .heading {
-    color: rebeccapurple;
+    color: darkblue;
   }
 
   .nav-links {
@@ -17,7 +17,14 @@
   .nav-link-item {
     padding-right: 2rem;
   }
-  
+
   .nav-link-text {
     color: black;
+  }
+
+  .site-title {
+    font-size: 3rem;
+    color: darkslategray;
+    font-weight: 700;
+    margin: 3rem 0;
   }
